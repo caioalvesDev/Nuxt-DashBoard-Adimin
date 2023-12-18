@@ -1,12 +1,10 @@
 # Analytics Dashboard
 
-Created with Nuxt 3 + Tailwind CSS
+
+Criado com Nuxt 3 + Tailwind CSS
 
 ## Demo
 
-Find the demo here: [analytics-ui.behonbaker.com](https://analytics-ui.behonbaker.com)
-
-Tailwind config was copied from [shadcn-ui](https://ui.shadcn.com/)
 
 ![Cover](/public/cover.png)
 
