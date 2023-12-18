@@ -17,12 +17,13 @@ Criado com Nuxt 3 + Tailwind CSS
 - @morev/vue-transitions/nuxt
 - @davestewart/nuxt-scrollbar
 
-Chart JS has no nuxt module but it was used as well.
+Chart JS não possui módulo nuxt, mas também foi usado.
 
-Shadcn UI was used for the styles. I am not reinveting the wheel here.
+
+Shadcn UI foi usada para os estilos. Não estou reinventando a roda aqui.
 
 ## Components
 
-Check the components folder for the components used in this project. Since I am not switching pages, I used the [`app.vue`](/app.vue) file to render everything.
+Verifique a pasta de componentes para os componentes usados ​​neste projeto. Como não estou trocando de página, usei o arquivo [`app.vue`](/app.vue) para renderizar tudo.
 
-Yes, light and dark mode is in place. Thanks to VueUse
+Sim, o modo claro e escuro está ativado. graças ao VueUse.
