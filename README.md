@@ -20,7 +20,7 @@ Criado com Nuxt 3 + Tailwind CSS
 Chart JS não possui módulo nuxt, mas também foi usado.
 
 
-Shadcn UI foi usada para os estilos. Não estou reinventando a roda aqui.
+Shadcn UI foi usada para a estilizção.
 
 ## Components
 
