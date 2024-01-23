@@ -1,6 +1,9 @@
 # Analytics Dashboard
 
 
+## Hospedado na [Vercel](https://vercel.com/)
+[Visualizar Nuxt-Dashboard-Admin](https://nuxt-dashboard-adimin-7z4iee77c-caioalvesdev.vercel.app/)
+
 Criado com Nuxt 3 + Tailwind CSS
 
 ## Demo
